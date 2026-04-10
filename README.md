@@ -59,7 +59,7 @@ Launch the instance. The bootstrapper will automatically download all mods on fi
 2. Go to **Settings** and find **Pre-launch command**
 3. Paste this:
 ```
--jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/noahhaon05/All-of-Create-CUSTOM/main/pack.toml
+javaw -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/noahhaon05/All-of-Create-CUSTOM/main/pack.toml
 ```
 
 **Step 4 — Launch**
