@@ -23,9 +23,8 @@ Follow the instructions for your launcher below.
 
 **Step 2 — Add the bootstrapper**
 1. Download [`packwiz-installer-bootstrap.jar`](https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest)
-2. Right-click your new instance and click **Edit**
-3. Go to the **Mods** tab and click **Add file**
-4. Select the downloaded `packwiz-installer-bootstrap.jar`
+3. Click **Open Folder** on your instance to open its `.minecraft` folder
+4. Place `packwiz-installer-bootstrap.jar` directly in that folder
 
 **Step 3 — Add the pre-launch command**
 1. Still in **Edit Instance**, go to **Settings → Custom commands**
