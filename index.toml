@@ -9,10 +9,6 @@ file = "config/sophisticatedcore-common.toml"
 hash = "a93e901cb9bf394e77649a90dbe669402cf3e3dbf06b389b656a655858ba2064"
 
 [[files]]
-file = "configureddefaults/README.md"
-hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
-
-[[files]]
 file = "configureddefaults/options.txt"
 hash = "494038a0b72acb7f7c121652fe5ff7563d333b0a87041abeb92525217a974329"
 
