@@ -54,9 +54,11 @@ Launch the instance. The bootstrapper will automatically download all mods on fi
 3. Place `packwiz-installer-bootstrap.jar` directly in that folder
 
 **Step 3 — Add the pre-launch command**
-1. Click the **three dots** on your instance and select **Edit Instance**
-2. Go to **Settings** and find **Pre-launch command**
-3. Paste this:
+1. Click the **Settings** on your instance
+2. Go to **Commands**
+3. Change **Enable commands?** to **Yes**
+4. Find **Pre-launch command**
+5. Paste this:
 ```
 javaw -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/noahhaon05/All-of-Create-CUSTOM/main/pack.toml
 ```
