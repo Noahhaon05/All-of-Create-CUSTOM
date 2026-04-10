@@ -585,11 +585,6 @@ hash = "079dbc9be43f9fa6ab866f21532d441f05421752a5d1ed52d358f6858d6fc2c2"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "2f30de9a0d70d37a56c283c98c69e0d264515d5876b7e2a9d78d1f1941692a3f"
 metafile = true
