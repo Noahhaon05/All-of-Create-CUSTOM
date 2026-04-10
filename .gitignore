@@ -1,0 +1,20 @@
+# ============================================
+#  Packwiz Modpack - .gitignore
+# ============================================
+
+# Actual mod jars - packwiz tracks these via .toml metadata files instead
+mods/*.jar
+
+# Actual resource pack and shader zips - same as above
+resourcepacks/*.zip
+resourcepacks/*.jar
+shaderpacks/*.zip
+shaderpacks/*.jar
+
+# Local disabled mods - personal to your instance
+disabledmods/
+fancymenu_data/
+
+# Packwiz
+.packwizignore
+

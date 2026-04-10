@@ -1,0 +1,13 @@
+name = "Trading Post unofficial ZH_CN Translation"
+filename = "trading post ZH CN.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bdc4820711ea4f43a5636801349ad0aa3370658f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5136858
+project-id = 979669

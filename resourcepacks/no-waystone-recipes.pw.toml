@@ -1,0 +1,13 @@
+name = "No Waystone Recipes"
+filename = "NOWAYSTONERECIPE.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f82a620fc5ac79d81934fa79785ead5795dd4834"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5005415
+project-id = 957675

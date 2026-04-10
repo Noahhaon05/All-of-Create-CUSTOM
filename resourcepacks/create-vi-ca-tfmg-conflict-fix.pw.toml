@@ -1,0 +1,13 @@
+name = "create-VI-CA-TFMG-conflict-fix"
+filename = "create-VI-CA-TFMG-conflict-fix.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c97e195d03295df4bd4cb3606cc52b2c4e9f1215"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5701077
+project-id = 1098566

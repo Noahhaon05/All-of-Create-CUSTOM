@@ -1,0 +1,13 @@
+name = "TFMG & D&D steel recipe compat"
+filename = "DD TFMG Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ccd36c3088b451b4826e0a521d58c7db63906a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5067846
+project-id = 968492

@@ -1,0 +1,13 @@
+name = "All of Create"
+author = "Noahhaon05"
+version = "2.4.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7da31e5e9238d4192eb186faf00e9ff056b3d92c3b9d1dcaae5ffe9eb6546cf1"
+
+[versions]
+forge = "47.4.2"
+minecraft = "1.20.1"

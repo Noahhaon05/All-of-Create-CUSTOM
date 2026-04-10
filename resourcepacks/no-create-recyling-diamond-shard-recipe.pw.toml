@@ -1,0 +1,13 @@
+name = "No Create Recyling Diamond Shard Recipe"
+filename = "No Create Recyling Diamond Shard Recipe.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a5a36b515dae07a9f2a9b3b40511d87060dfc27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6663417
+project-id = 1264455

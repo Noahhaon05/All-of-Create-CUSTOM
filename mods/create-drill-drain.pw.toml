@@ -1,0 +1,13 @@
+name = "Create: Drill Drain"
+filename = "drill_drain-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1aaafcfb5f765a507de74c795fcc8d49fead9df3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6676163
+project-id = 1281927

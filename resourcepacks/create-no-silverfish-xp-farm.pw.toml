@@ -1,0 +1,13 @@
+name = "Create: No Silverfish XP Farm"
+filename = "Create_No_Silverfish.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71807e73b28ed445eb84c76df1391aa2c743bd7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6663800
+project-id = 1288928

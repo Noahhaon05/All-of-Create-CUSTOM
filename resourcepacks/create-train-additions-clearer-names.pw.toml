@@ -1,0 +1,13 @@
+name = "Create Train Additions clearer names"
+filename = "createtrainbetterwording.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46e5b1a5ffcd3093630c55dc07aac62eed40741c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5136758
+project-id = 979641

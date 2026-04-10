@@ -1,0 +1,13 @@
+name = "No Create Recyling Netherite Shard Recipe"
+filename = "No Create Recyling Netherite Recipe.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaca85a26c0c279388e76dfe7987974f8743da70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6663409
+project-id = 1288902

@@ -1,0 +1,13 @@
+name = "Potacore"
+filename = "potacore-1.20.1-0.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d90d32d0d87d3e1235db1944563b5fc7954cf36f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6820160
+project-id = 951521

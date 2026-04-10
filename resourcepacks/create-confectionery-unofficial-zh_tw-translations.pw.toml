@@ -1,0 +1,13 @@
+name = "Create Confectionery unofficial ZH_TW Translations"
+filename = "choctranslationZHTW.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1f90e000dd23163fe84a87f4aab5a7307ed490f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5075217
+project-id = 969656

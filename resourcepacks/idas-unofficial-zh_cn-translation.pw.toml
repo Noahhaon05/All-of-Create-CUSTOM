@@ -1,0 +1,13 @@
+name = "IDAS unofficial ZH_CN Translation"
+filename = "IDAS Chinese Translation ZH CN.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b5bf9236ec4cb69c3e89ea4c7ec764cca431f79"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5136812
+project-id = 979655

@@ -1,0 +1,13 @@
+name = "ZH_TW Chinese translations for the IDAS Mod."
+filename = "IDAS Chinese Translation ZH TW.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b057756e182271576c870b3952696d903206884"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5136808
+project-id = 979654

@@ -1,0 +1,13 @@
+name = "Create Tweaked Controller unofficial ZH_TW Translation"
+filename = "createtweakedcontrollerunofficialzhtwtranslationr.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6e8941c07a319cb79140fc9de179268aaf6c1c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5075225
+project-id = 969657

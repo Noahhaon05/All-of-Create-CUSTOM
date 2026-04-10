@@ -1,0 +1,13 @@
+name = "Create DnDesires plain text"
+filename = "PlainTextDreamDesires.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c3e694a2bfa45af870c8448fbf2b39ad6e391c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4908161
+project-id = 943893

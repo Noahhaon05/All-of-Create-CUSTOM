@@ -1,0 +1,13 @@
+name = "Create UI"
+filename = "createUIv2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4e64a0dc574bda265a9c8978ad05b6d2fcbe131"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5070397
+project-id = 938959

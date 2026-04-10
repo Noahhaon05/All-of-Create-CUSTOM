@@ -1,0 +1,13 @@
+name = "Create: Wrapped"
+filename = "create_wrapped-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97d6107ebb9a9b63e4c97cc06f03490bcb0bf266"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7452751
+project-id = 1394354

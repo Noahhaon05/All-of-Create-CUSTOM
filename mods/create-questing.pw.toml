@@ -1,0 +1,13 @@
+name = "Create Questing"
+filename = "Create_Questing-FORGE-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "823105e229924fedd6ade709297ab742fc5bb5e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5036787
+project-id = 591861
