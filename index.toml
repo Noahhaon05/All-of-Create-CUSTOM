@@ -25,10 +25,6 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
-file = "fancymenu_data/last_world.fmdata"
-hash = "47dd0365ecf88fe1c23abc473ebf6ebb0dfd26d66f75e64b7b02c845d2b14f77"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "7dd9dc01340eb4fbd334ac9d4277b403dfd1e406e0230111aed4b9210465b116"
 metafile = true
