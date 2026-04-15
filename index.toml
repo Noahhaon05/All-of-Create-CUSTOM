@@ -25,6 +25,11 @@ file = "defaultconfigs/ftbxmodcompat/ftbxmodcompat.snbt"
 hash = "9e5046ac0b9f6d27945b689657835bff24310aec7b11f7461c972b514d0e0658"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
+metafile = true
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "7dd9dc01340eb4fbd334ac9d4277b403dfd1e406e0230111aed4b9210465b116"
 metafile = true
@@ -80,8 +85,8 @@ hash = "6d2c7e84e061c516394e0f847e1b8fb81b8564fefd6d66f63fb23ac8e9527186"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "7b82c00d58b304aa7e5c94426610b7a7b6247baa1122dbaa480bd7c7eabb6a6e"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
 
 [[files]]
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compressed.pw.toml"
-hash = "b400bb605b1f015d03ce3bf813be41987ef738627040b9db7a72bd057c1a9bc0"
+hash = "e89058045a2eae9a97a7fe5744580bb2174a3b747b96e4356930403fd183104a"
 metafile = true
 
 [[files]]
@@ -381,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-logistics.pw.toml"
-hash = "49dc0928b2e15c713e9d71b153ba6476c3527880f3590de9680c1bd8d0ba1680"
+hash = "1b98b81599487cd591fb956038e79eb09986e88a7eef8a93ba8bb931961088d0"
 metafile = true
 
 [[files]]
@@ -560,13 +565,13 @@ hash = "20b2a7f14cb68858565083d6bc93804dd1eae91c83da76903925e88162ee320a"
 metafile = true
 
 [[files]]
-file = "mods/detected-setblock-be-gone.pw.toml"
-hash = "3155502f39959b150a27893ef4005e430275b6d873012c719198306cabd6ba39"
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "4eac3d67379cfbf38a5c7a40a9a89328117fdc5ae0bfeb3acaef5ded00c2d8f0"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "4eac3d67379cfbf38a5c7a40a9a89328117fdc5ae0bfeb3acaef5ded00c2d8f0"
+file = "mods/dsbg.pw.toml"
+hash = "f2aadbe07955cedd9643508f8fc7fab7b8e351c50fa7dc53ce5e55fc7bbafc11"
 metafile = true
 
 [[files]]
@@ -911,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "423d70a66b0b5c98582531b7e7ff11bc90a96b62681d58d87dcc60b33aa52caa"
+hash = "102ff3f36d748556de4ab9249943035a5bc73b5a76d7c3257698a5d151fe7ab4"
 metafile = true
 
 [[files]]
@@ -960,13 +965,13 @@ hash = "e6bb4fed1cbfd16fc6c08655f39c3b1098010203dfc893b59dbc63306ad65996"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "404074f53b89d938b2ca5dbcdd66300f0f623295ddf2966971b84f0a38636b94"
+file = "mods/petrolpark.pw.toml"
+hash = "ed1802c6a283e81145bf12d85377fd09a24df5fe763a557076f021cbf5ed0da2"
 metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "4a4ad7b9c5255b80fde9a5cad1c23acc8e0133f5a588cd8c541185d52922d8b2"
+hash = "ee7905fd6574b870ba30073402da121d40ee4ea3b90967480605f2d38d7a1dc6"
 metafile = true
 
 [[files]]
@@ -1042,11 +1047,6 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "82ff48f8deef9fee96dd9361e58f430f0ed327f9dceaa9ba145505220f69aa6e"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "08df98fe6ca70335ac9d364232bbf4a2bfc8d331cf0fac805a09741b19e8756e"
 metafile = true
 
 [[files]]
