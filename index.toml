@@ -9,10 +9,6 @@ file = "config/sophisticatedcore-common.toml"
 hash = "a93e901cb9bf394e77649a90dbe669402cf3e3dbf06b389b656a655858ba2064"
 
 [[files]]
-file = "configureddefaults/options.txt"
-hash = "494038a0b72acb7f7c121652fe5ff7563d333b0a87041abeb92525217a974329"
-
-[[files]]
 file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
 hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
 
