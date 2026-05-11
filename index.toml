@@ -965,8 +965,8 @@ hash = "e6bb4fed1cbfd16fc6c08655f39c3b1098010203dfc893b59dbc63306ad65996"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "5d8dde6bb892cf91afdfe0e1748befb6bf1e642c19f6a3f735763329b9def0db"
+file = "mods/petrolpark.pw.toml"
+hash = "a7c06861753883eaf0d3328b49a99f38460229c9025326d5d6b96c228bd07b5d"
 metafile = true
 
 [[files]]
