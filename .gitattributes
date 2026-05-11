@@ -1,0 +1,4 @@
+*.toml -text
+*.json -text
+*.cfg  -text
+*.txt  -text
