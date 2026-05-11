@@ -390,11 +390,6 @@ hash = "8bd086e706b7ea5cca7b6146efd0104c729558028d1439d533fc7b8ac5319c78"
 metafile = true
 
 [[files]]
-file = "mods/create-logistics.pw.toml"
-hash = "6bb696f0e97925d64cc1faf8e6fec4569c0cba82a5a8cf2a79577276bda28531"
-metafile = true
-
-[[files]]
 file = "mods/create-metallurgy.pw.toml"
 hash = "2ddef4570a10255b5c8e7ab976d9d43a266d8b985337ca8a41862b193151499d"
 metafile = true
