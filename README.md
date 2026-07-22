@@ -4,6 +4,7 @@ A customized version of the [All of Create](https://www.curseforge.com/minecraft
 
 - **Minecraft:** 1.20.1
 - **Mod Loader:** Forge 47.4.2
+- **Base Pack Version:** v2.3
 
 ---
 
